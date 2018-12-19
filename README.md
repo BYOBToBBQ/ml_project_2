@@ -3,7 +3,16 @@
 ## Installations
 
 In order to execute our code you will need to install the python libraries Surprise, Numpy, Pandas and Scikit. Instructions for installation are available on their respective websites.  
-  
+
+Name: numpy
+Version: 1.15.4
+Name: pandas
+Version: 0.23.4
+Name: scikit-learn
+Version: 0.19.1
+
+Name: scikit-surprise
+Version: 1.0.6  
 Suprise is a python scikit building and analyzing recommender systems.  
 - pip install scikit-surprise
 - conda install -c conda-forge scikit-surprise
