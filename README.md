@@ -10,7 +10,7 @@ Suprise is a python scikit building and analyzing recommender systems.
 
 ## Files
 
-- helpers: Various helpers functions to move from the crowdai file format to the Surprise one as well as basic recommender systems implementations.  
+- helpers: Various helpers functions to convert the crowdai file format to the Surprise one as well as basic recommender systems implementations.  
   
 - exploratory: Provides an exploratory data analysis of the training set.  
   
